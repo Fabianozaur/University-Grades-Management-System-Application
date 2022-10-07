@@ -1,0 +1,12 @@
+999;Assignment 12;12
+112;Exercise 11;10
+624;Subsection 21;13
+237;Subsection 89;16
+678;Subsection 28;15
+172;Subsection 48;2
+492;Point 2;3
+923;Problem 14;5
+448;Subsection 78;16
+485;Subsection 67;1
+994;Problem 65;7
+614;Subsection 98;3

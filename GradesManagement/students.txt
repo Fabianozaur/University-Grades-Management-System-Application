@@ -1,0 +1,12 @@
+103;Andrei;913
+132;Eugen;913
+8;Duma Catalin;915
+11;Dudas Andrei;912
+10;Lupsa Cristian;911
+3;Szoke Ioana;915
+12;Toth Horatiu;912
+15;Duma Stefan;916
+2;Toth Marius;912
+1;Cindea Sergiu;914
+13;Foidas Stefan;911
+14;Foidas Marius;915
